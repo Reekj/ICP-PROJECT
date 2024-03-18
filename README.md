@@ -13,10 +13,11 @@ To learn more before you start working with phonerecorder, see the following doc
 
 If you want to start working on your project right away, you might want to try the following commands:
 
+```bash
 cd temperature_converter/
 dfx help
 dfx canister --help
-
+```
 ## Running the project locally
 
 If you want to test your project locally, you can use the following commands:
